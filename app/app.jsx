@@ -8,11 +8,11 @@ import RandomScreen from './random';
 const Stack = createStackNavigator();
 
 const App = () => {
-  // return (
-  //   <NavigationContainer>
-  //   <AppNavigator />
-  // </NavigationContainer>
-  // );
+  return (
+    <NavigationContainer>
+    <AppNavigator />
+  </NavigationContainer>
+  );
 };
 
 export default App;

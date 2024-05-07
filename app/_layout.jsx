@@ -7,8 +7,7 @@ const RootLayout = () => {
  
   return (
     <Stack>
-      <Stack.Screen name='Index' options={{headerShown : true}} />
-      <Stack.Screen name='Dictionary' options={{headerShown : true}} />
+      <Stack.Screen name='index' options={{headerShown : true}} />
      
     </Stack>
     
